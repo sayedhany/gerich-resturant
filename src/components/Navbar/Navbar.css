@@ -4,7 +4,7 @@
   justify-content: space-between;
   align-items: center;
   background-color: var(--color-black);
-  padding: 1rem 2rem;
+  padding: 0.8rem 1.7rem;
 }
 .app__navbar-logo {
   display: flex;

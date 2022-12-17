@@ -1,11 +1,11 @@
-import React from 'react';
+import React from "react";
 
-import './Header.css';
+import "./Header.css";
 
 const Header = () => (
-  <div>
-    Header
-  </div>
+  <header className="app_header app_wrapper section__padding">
+    <h1>sayed</h1>
+  </header>
 );
 
 export default Header;
