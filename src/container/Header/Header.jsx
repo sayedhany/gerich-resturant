@@ -4,7 +4,7 @@ import { images } from "../../constants";
 import "./Header.css";
 
 const Header = () => (
-  <header className="app_header app__wrapper section__padding" id="home">
+  <header className="app__header app__wrapper section__padding" id="home">
     <div className="app__wrapper_info">
       <SubHeading title="Chase the new Flavour" />
       <h1 className="app__header-h1">The key to Fine dining</h1>
